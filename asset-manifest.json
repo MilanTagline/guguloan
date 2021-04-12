@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guguloan/static/css/main.74f71929.chunk.css",
+    "main.js": "/guguloan/static/js/main.3bd45b38.chunk.js",
+    "main.js.map": "/guguloan/static/js/main.3bd45b38.chunk.js.map",
+    "runtime-main.js": "/guguloan/static/js/runtime-main.14803a95.js",
+    "runtime-main.js.map": "/guguloan/static/js/runtime-main.14803a95.js.map",
+    "static/js/2.b46fb681.chunk.js": "/guguloan/static/js/2.b46fb681.chunk.js",
+    "static/js/2.b46fb681.chunk.js.map": "/guguloan/static/js/2.b46fb681.chunk.js.map",
+    "index.html": "/guguloan/index.html",
+    "precache-manifest.6fe83e473b338f88bc5fe383be238dc8.js": "/guguloan/precache-manifest.6fe83e473b338f88bc5fe383be238dc8.js",
+    "service-worker.js": "/guguloan/service-worker.js",
+    "static/css/main.74f71929.chunk.css.map": "/guguloan/static/css/main.74f71929.chunk.css.map",
+    "static/js/2.b46fb681.chunk.js.LICENSE.txt": "/guguloan/static/js/2.b46fb681.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14803a95.js",
+    "static/js/2.b46fb681.chunk.js",
+    "static/css/main.74f71929.chunk.css",
+    "static/js/main.3bd45b38.chunk.js"
+  ]
+}
